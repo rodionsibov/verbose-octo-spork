@@ -1,5 +1,7 @@
 # StateSignals
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/957c8d31-fb2e-48c8-95a7-eb3cbbb9163e/deploy-status)](https://app.netlify.com/sites/superlative-cuchufli-e7d1be/deploys)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Development server
